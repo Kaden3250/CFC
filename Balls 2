@@ -76,14 +76,14 @@
         },
         {
           "abbreviation" : "TENN",
-          "prestige" : "78",
+          "prestige" : "82",
           "hexColor" : "#FF8200",
           "rival" : "VAND",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
             "age" : "45",
-            "ratOff" : "66",
+            "ratOff" : "84",
             "cumulativePrestige" : "3",
             "ratDef" : "79",
             "homeState" : "Alabama",
