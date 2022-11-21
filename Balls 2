@@ -76,7 +76,7 @@
         },
         {
           "abbreviation" : "TENN",
-          "prestige" : "73",
+          "prestige" : "78",
           "hexColor" : "#FF8200",
           "rival" : "VAND",
           "headCoach" : {
@@ -124,7 +124,7 @@
         },
         {
           "abbreviation" : "MISS",
-          "prestige" : "78",
+          "prestige" : "80",
           "hexColor" : "#14213D",
           "rival" : "MSST",
           "headCoach" : {
@@ -148,16 +148,16 @@
         },
         {
           "abbreviation" : "ARK",
-          "prestige" : "71",
+          "prestige" : "80",
           "hexColor" : "#9D2235",
           "rival" : "LSU",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
             "age" : "50",
-            "ratOff" : "72",
+            "ratOff" : "77",
             "cumulativePrestige" : "0",
-            "ratDef" : "65",
+            "ratDef" : "83",
             "homeState" : "Texas",
             "ratPot" : "96",
             "ratTalent" : "68",
@@ -172,7 +172,7 @@
         },
         {
           "abbreviation" : "MSST",
-          "prestige" : "78",
+          "prestige" : "83",
           "hexColor" : "#660000",
           "rival" : "MISS",
           "headCoach" : {
@@ -196,7 +196,7 @@
         },
         {
           "abbreviation" : "AUB",
-          "prestige" : "82",
+          "prestige" : "79",
           "hexColor" : "#03244D",
           "rival" : "BAMA",
           "headCoach" : {
